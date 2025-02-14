@@ -1,7 +1,7 @@
 # 🚀 Suitify-AI: Text-to-Image Generation with Fine-Tuned Stable Diffusion XL Model
 
 ## 📌 Overview
-Suitify-AI is a text-to-image generation project that utilizes Stable Diffusion XL with a custom LoRA model. This project enables the generation of high-quality images of suits for men based on textual prompts.
+Suitify-AI is a text-to-image generation project that utilizes a fine-tuned Stable Diffusion XL model. This project enables the generation of high-quality images of suits for men based on textual prompts.
 
 ## 🛠️ Features
 - 🔥 Uses **Stable Diffusion XL** for high-resolution image generation
